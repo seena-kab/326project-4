@@ -1,6 +1,6 @@
 # 326project-4: CPU scheduler
 by Seena Kaboli and Samuel Lara
-##How to Compile and Run
+## How to Compile and Run
 1. Make sure you have your files downloaded and a proper gcc/clang compiler.
 2. Open your terminal or command prompt and go to the directory the files are located in.
 3. Then since we have a makefile, compile the file using: make fcfs, make rr, make priority to compile each file respectively.
